@@ -15,9 +15,8 @@
 # 🕵️‍♂️ Findings & Analysis
 <h2><strong>🚩 Flag 1: INITIAL ACCESS - Remote Access Source</strong></h2>
 
-- **Answer:** `csc.exe`
-- **Bold Item **
-- **Bold Item 3**
+- **Answer:** `88.97.178.12`
+- **Analysis:**
 
 
 
