@@ -15,4 +15,6 @@
 # 🕵️‍♂️ Findings & Analysis
 
 ***🚩 Flag 1***
+<h2><strong>Bigger Bold Text</strong></h2>
+
 
