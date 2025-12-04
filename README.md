@@ -11,3 +11,6 @@
 > *Write this LAST — 3–5 sentences providing a clear overview of the incident, impact, and current state.*
 
 ---
+
+### 🕵️‍♂️ Findings & Analysis
+
