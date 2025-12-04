@@ -13,8 +13,6 @@
 ---
 
 # 🕵️‍♂️ Findings & Analysis
-
-***🚩 Flag 1***
-<h2><strong>Bigger Bold Text</strong></h2>
+<h2><strong>🚩 Flag 1</strong></h2>
 
 
