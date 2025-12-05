@@ -27,7 +27,7 @@
 <h2><strong>🚩 Flag 2: INITIAL ACCESS - Compromised User Account</strong></h2>
 
 - **Answer:** `kenji.sato`
-- **Analysis:** To find out the attacker's source IP address, it has to be found based on what IP source was able to successfully login to the device`azuki-sl`.
+- **Analysis:** The compromised user account account was identified based on many successful logins from the source with IP address `88.97.178.12`.
 
 <img width="708" height="142" alt="Flag 2 Query 2" src="https://github.com/user-attachments/assets/b7aee4f1-9256-43b4-858c-0bee2ebf11a5" />
 <img width="712" height="180" alt="Flag 2 result" src="https://github.com/user-attachments/assets/74535744-d63c-4408-9678-707731398a43" />
