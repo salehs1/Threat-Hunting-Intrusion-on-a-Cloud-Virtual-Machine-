@@ -32,3 +32,13 @@
 <img width="708" height="142" alt="Flag 2 Query 2" src="https://github.com/user-attachments/assets/b7aee4f1-9256-43b4-858c-0bee2ebf11a5" />
 <img width="712" height="180" alt="Flag 2 result" src="https://github.com/user-attachments/assets/74535744-d63c-4408-9678-707731398a43" />
 
+
+<h2><strong>🚩 Flag 3: DISCOVERY - Network Reconnaissance</strong></h2>
+
+- **Answer:** `"ARP.EXE" -a`
+- **Analysis:** The compromised user account account was identified based on many successful logins from the source with IP address `88.97.178.12`.
+
+
+<img width="800" height="143" alt="Flag 3 Query" src="https://github.com/user-attachments/assets/31eff53d-3f8e-450a-84fc-7212060f7a09" />
+<img width="823" height="163" alt="Flag 3 Result" src="https://github.com/user-attachments/assets/f09906fb-bca2-4871-8c07-c933cebd8c15" />
+
