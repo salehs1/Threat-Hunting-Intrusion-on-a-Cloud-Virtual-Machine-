@@ -16,7 +16,7 @@
 <h2><strong>🚩 Flag 1: INITIAL ACCESS - Remote Access Source</strong></h2>
 
 - **Answer:** `88.97.178.12`
-- **Analysis:**
+- **Analysis:** To find out the attacker's IP address, it has to be found based on what IP address the attacker used to successfully logn to to the device which is `azuki-sl`
 
 
 
