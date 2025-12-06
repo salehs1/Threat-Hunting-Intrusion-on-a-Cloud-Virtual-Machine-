@@ -62,3 +62,57 @@
 <img width="633" height="123" alt="Flag 5 query" src="https://github.com/user-attachments/assets/0f87e8de-3ded-4415-bc7f-fcac57d40097" />
 <img width="523" height="162" alt="Flag 5 Result" src="https://github.com/user-attachments/assets/c19d93ab-476c-47dc-9c9f-e246693bdb23" />
 
+
+<h2><strong>🚩 Flag 6: DEFENCE EVASION - Temporary Folder Exclusion</strong></h2>
+
+- **Answer:** `C:\Users\KENJI~1.SAT\AppData\Local\Temp`
+- **Analysis:**
+
+
+<img width="650" height="136" alt="Flag 6 query" src="https://github.com/user-attachments/assets/19636a5b-8b6e-4677-a95b-80f20d08d717" />
+<img width="724" height="174" alt="Flag 6 Result" src="https://github.com/user-attachments/assets/33c46c34-a591-46b4-bb8c-e29b89f6e2ad" />
+
+
+<h2><strong>🚩 Flag 7: DEFENCE EVASION - Download Utility Abuse</strong></h2>
+
+- **Answer:** `certutil.exe`
+- **Analysis:**
+
+
+<img width="923" height="168" alt="Flag 7 query" src="https://github.com/user-attachments/assets/571acce7-3a4d-4073-8077-b16d1f537eea" />
+<img width="941" height="465" alt="Flag 7 Result" src="https://github.com/user-attachments/assets/c867b32e-72c8-4183-b19e-2864254ede19" />
+
+
+<h2><strong>🚩 Flag 8: PERSISTENCE - Scheduled Task Name</strong></h2>
+
+- **Answer:** `Windows Update Check`
+- **Analysis:**
+
+
+<img width="925" height="179" alt="Flag 8 Query" src="https://github.com/user-attachments/assets/ac4519ac-9ea0-4573-85ad-1a1e18479a70" />
+<img width="1070" height="246" alt="Flag 8 Result" src="https://github.com/user-attachments/assets/2ee83ddf-109e-48b8-9b2c-e6ef12ee5df4" />
+
+
+<h2><strong>🚩 Flag 9: PERSISTENCE - Scheduled Task Target</strong></h2>
+
+- **Answer:** `C:\ProgramData\WindowsCache\svchost.exe`
+- **Analysis:**
+
+
+<img width="921" height="146" alt="Flag 9 Query" src="https://github.com/user-attachments/assets/ac787128-97fe-4ac2-9638-dd34fac47708" />
+<img width="1054" height="253" alt="Flag 9 Result" src="https://github.com/user-attachments/assets/43cd0587-881b-495e-b0f3-88648c83e00a" />
+
+
+<h2><strong>🚩 Flag 10: COMMAND & CONTROL - C2 Server Address</strong></h2>
+
+- **Answer:** `C:\ProgramData\WindowsCache\svchost.exe`
+- **Analysis:**
+
+
+<img width="883" height="183" alt="Flag 10 Query" src="https://github.com/user-attachments/assets/6675c5b8-883e-4113-82ad-3cf6f90bdfac" />
+<img width="928" height="270" alt="Flag 10 Result" src="https://github.com/user-attachments/assets/28066403-8b5e-4530-96c8-f2c7b75dbd5e" />
+
+
+
+
+
