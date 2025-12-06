@@ -1,6 +1,6 @@
 <h1><stong>🚨 SOC Incident Report</stong></h1>
 
-**Report ID:** `INC-2025-XXXX`  
+**Report ID:** `INC-2025-0002`  
 **Analyst:** Saleh Mohammed Saleh  
 **Investigation Date:** 11/27/2025  
 
@@ -8,6 +8,8 @@
 
 
 # 💻 Scenario
+
+> Financially motivated threat actor targeting import/export companies. Known for multi-week operations with eventual ransomware deployment following data theft. Moderate sophistication with preference for low-footprint techniques.
 
 # 🧭 Executive Summary
 
