@@ -36,9 +36,29 @@
 <h2><strong>🚩 Flag 3: DISCOVERY - Network Reconnaissance</strong></h2>
 
 - **Answer:** `"ARP.EXE" -a`
-- **Analysis:** The compromised user account account was identified based on many successful logins from the source with IP address `88.97.178.12`.
+- **Analysis:** The attacker was trying to enumerate devices in the network to identify possible lateral movement and any value target using '"ARP.EXE" -a'.
 
 
 <img width="800" height="143" alt="Flag 3 Query" src="https://github.com/user-attachments/assets/31eff53d-3f8e-450a-84fc-7212060f7a09" />
 <img width="823" height="163" alt="Flag 3 Result" src="https://github.com/user-attachments/assets/f09906fb-bca2-4871-8c07-c933cebd8c15" />
+
+
+<h2><strong>🚩 Flag 4: DEFENCE EVASION - Malware Staging Directory</strong></h2>
+
+- **Answer:** `"C:\ProgramData\WindowsCache`
+- **Analysis:**
+
+
+<img width="920" height="150" alt="Flag 4 query" src="https://github.com/user-attachments/assets/1f04be3b-4681-4f3e-8288-6b64a0ea5d90" />
+<img width="931" height="239" alt="Flag 4 Result" src="https://github.com/user-attachments/assets/17cf6f0a-6227-4498-aaf8-532d77d2b0f1" />
+
+
+<h2><strong>🚩 Flag 5: DEFENCE EVASION - File Extension Exclusions</strong></h2>
+
+- **Answer:** `3`
+- **Analysis:**
+
+
+<img width="633" height="123" alt="Flag 5 query" src="https://github.com/user-attachments/assets/0f87e8de-3ded-4415-bc7f-fcac57d40097" />
+<img width="523" height="162" alt="Flag 5 Result" src="https://github.com/user-attachments/assets/c19d93ab-476c-47dc-9c9f-e246693bdb23" />
 
