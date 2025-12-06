@@ -1,4 +1,4 @@
-# 🚨 SOC Incident Report
+<h1><stong>🚨 SOC Incident Report</stong></h1>
 
 **Report ID:** `INC-2025-XXXX`  
 **Analyst:** Saleh Mohammed Saleh  
