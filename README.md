@@ -109,7 +109,7 @@
 - **Analysis:**
 
 
-<img width="883" height="183" alt="Flag 10 Query" src="https://github.com/user-attachments/assets/6675c5b8-883e-4113-82ad-3cf6f90bdfac" />
+<img width="930" height="128" alt="Flag 10 Query" src="https://github.com/user-attachments/assets/b3f1aae1-4b18-42dc-8cfd-cb189cd0eb0e" />
 <img width="928" height="270" alt="Flag 10 Result" src="https://github.com/user-attachments/assets/28066403-8b5e-4530-96c8-f2c7b75dbd5e" />
 
 
