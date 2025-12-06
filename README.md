@@ -113,6 +113,120 @@
 <img width="928" height="270" alt="Flag 10 Result" src="https://github.com/user-attachments/assets/28066403-8b5e-4530-96c8-f2c7b75dbd5e" />
 
 
+<h2><strong>🚩 Flag 11: COMMAND & CONTROL - C2 Communication Port</strong></h2>
+
+- **Answer:** `443`
+- **Analysis:**
+
+
+<img width="881" height="134" alt="Flag  11 Query" src="https://github.com/user-attachments/assets/02c0dd5b-c676-4ab3-9167-59482fe4f4e1" />
+<img width="817" height="136" alt="Flag 11 Result" src="https://github.com/user-attachments/assets/62c83760-75af-4adf-bd3a-d90e48595a3c" />
+
+
+<h2><strong>🚩 Flag 12: CREDENTIAL ACCESS - Credential Theft Tool</strong></h2>
+
+- **Answer:** `mm.exe`
+- **Analysis:**
+
+
+
+<img width="907" height="139" alt="Flag 12 query" src="https://github.com/user-attachments/assets/942dbdb0-5b9e-4d47-a7d0-d6c87d1aa7a4" />
+<img width="998" height="236" alt="Flag 12 result" src="https://github.com/user-attachments/assets/bace8951-77a1-4243-bc0a-84d518a289e3" />
+
+
+<h2><strong>🚩 Flag 13: CREDENTIAL ACCESS - Memory Extraction Module</strong></h2>
+
+- **Answer:** `sekurlsa::logonpasswords`
+- **Analysis:**
+
+
+<img width="898" height="148" alt="Flag 13 query" src="https://github.com/user-attachments/assets/d44f7fe4-deaa-4395-b427-6f1e65a00ad4" />
+<img width="987" height="277" alt="Flag 13 Result" src="https://github.com/user-attachments/assets/9c28a129-95f3-4bcb-91aa-e8e93924a90f" />
+
+
+<h2><strong>🚩 Flag 14: COLLECTION - Data Staging Archive</strong></h2>
+
+- **Answer:** `export-data.zip`
+- **Analysis:**
+
+
+<img width="930" height="156" alt="Flag 14 Query" src="https://github.com/user-attachments/assets/bd7190f8-7bf3-48e2-98c8-65efb58b6616" />
+<img width="1586" height="287" alt="Flag 14 Result" src="https://github.com/user-attachments/assets/bbaa61e6-6410-4ea1-acff-941420233309" />
+
+
+<h2><strong>🚩 Flag 15: EXFILTRATION - Exfiltration Channel</strong></h2>
+
+- **Answer:** `discord`
+- **Analysis:**
+
+
+<img width="974" height="156" alt="Flag 15 Query" src="https://github.com/user-attachments/assets/3a59422f-4434-4497-8946-64a0d7512aa0" />
+<img width="1566" height="297" alt="Flag 15 result" src="https://github.com/user-attachments/assets/d207903c-9f17-4c92-b9a3-2c66087e7596" />
+
+
+<h2><strong>🚩 Flag 16: ANTI-FORENSICS - Log Tampering</strong></h2>
+
+- **Answer:** `Security`
+- **Analysis:**
+
+
+<img width="933" height="156" alt="Flag 16 query" src="https://github.com/user-attachments/assets/1e77b2fd-e527-4a8a-9ebf-e4b43dd29c94" />
+<img width="1161" height="350" alt="Flag 16 Result" src="https://github.com/user-attachments/assets/613adc84-d3ec-41ef-a026-8b909706c9d5" />
+
+
+<h2><strong>🚩 Flag 17: IMPACT - Persistence Account</strong></h2>
+
+- **Answer:** `support`
+- **Analysis:**
+
+
+<img width="929" height="158" alt="Flag 17 Query" src="https://github.com/user-attachments/assets/99d9c0b0-bbd3-4709-80a2-c5de08d751ad" />
+<img width="1053" height="232" alt="Flag 17 Result" src="https://github.com/user-attachments/assets/49a4fee2-0d67-439e-bdff-75b2cd074b34" />
+
+
+<h2><strong>🚩 Flag 18: EXECUTION - Malicious Script</strong></h2>
+
+- **Answer:** `wupdate.ps1`
+- **Analysis:**
+
+
+<img width="723" height="136" alt="Flag 18 query" src="https://github.com/user-attachments/assets/09c04cdb-1af1-4df6-887a-9fcd14ed6621" />
+<img width="1489" height="178" alt="Flag 18 Result" src="https://github.com/user-attachments/assets/c3c1fe7b-4a6e-4051-8987-47af06a0b32d" />
+
+
+<h2><strong>🚩 Flag 19: LATERAL MOVEMENT - Secondary Target</strong></h2>
+
+- **Answer:** `10.1.0.188`
+- **Analysis:**
+
+
+<img width="953" height="134" alt="Flag 19 Query" src="https://github.com/user-attachments/assets/5c468bb0-b0fa-4696-8ce0-f8800a4e4830" />
+<img width="1041" height="247" alt="Flag 19 Result" src="https://github.com/user-attachments/assets/45ff7187-e07d-43a7-b074-2ac6a0952fac" />
+
+
+<h2><strong>🚩 Flag 20: LATERAL MOVEMENT - Remote Access Tool</strong></h2>
+
+- **Answer:** `mstsc.exe`
+- **Analysis:**
+
+
+<img width="852" height="175" alt="Query flag 20" src="https://github.com/user-attachments/assets/e4475f0b-97e5-4963-9cad-c5b533cdc023" />
+<img width="1035" height="246" alt="Flag 20 Result" src="https://github.com/user-attachments/assets/3db8be81-6fcb-434d-8023-90946a30e958" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
