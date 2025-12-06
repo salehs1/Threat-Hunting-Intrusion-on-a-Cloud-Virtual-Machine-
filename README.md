@@ -51,7 +51,7 @@
 <h2><strong>🚩 Flag 4: DEFENCE EVASION - Malware Staging Directory</strong></h2>
 
 - **Answer:** `"C:\ProgramData\WindowsCache`
-- **Analysis:** The attacker was staging the malware in the directory by using 'attrib.exe' in the command to facilitate data for exfiltration
+- **Analysis:** The attacker was staging the malware in the directory by using `attrib.exe` in the command to facilitate data for exfiltration
 
 
 <img width="920" height="150" alt="Flag 4 query" src="https://github.com/user-attachments/assets/1f04be3b-4681-4f3e-8288-6b64a0ea5d90" />
