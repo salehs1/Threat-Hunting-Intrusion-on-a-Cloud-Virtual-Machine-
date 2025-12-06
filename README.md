@@ -105,7 +105,7 @@
 
 <h2><strong>🚩 Flag 10: COMMAND & CONTROL - C2 Server Address</strong></h2>
 
-- **Answer:** `C:\ProgramData\WindowsCache\svchost.exe`
+- **Answer:** `78.141.196.6`
 - **Analysis:**
 
 
