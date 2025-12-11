@@ -81,7 +81,7 @@
 <h2><strong>🚩 Flag 7: DEFENCE EVASION - Download Utility Abuse</strong></h2>
 
 - **Answer:** `certutil.exe`
-- **Analysis:**
+- **Analysis:** After the attacker excluded the files in Windows Defender Configuration, the attacker used and abused the built-in `certutil.exe` to download malicious files while not being detected. 
 
 
 <img width="923" height="168" alt="Flag 7 query" src="https://github.com/user-attachments/assets/571acce7-3a4d-4073-8077-b16d1f537eea" />
@@ -91,7 +91,7 @@
 <h2><strong>🚩 Flag 8: PERSISTENCE - Scheduled Task Name</strong></h2>
 
 - **Answer:** `Windows Update Check`
-- **Analysis:**
+- **Analysis:** The scheduled task was created so the attacker can maintain long-term access into the system
 
 
 <img width="925" height="179" alt="Flag 8 Query" src="https://github.com/user-attachments/assets/ac4519ac-9ea0-4573-85ad-1a1e18479a70" />
