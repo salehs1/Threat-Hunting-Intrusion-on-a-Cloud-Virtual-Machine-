@@ -71,7 +71,7 @@
 <h2><strong>🚩 Flag 6: DEFENCE EVASION - Temporary Folder Exclusion</strong></h2>
 
 - **Answer:** `C:\Users\KENJI~1.SAT\AppData\Local\Temp`
-- **Analysis:**
+- **Analysis:** The attacker included the directory in the `Exclusions\Paths` in the registry key to avoid being detected by Windows Defender. By including `Paths` in the KQL query, the excluded temporary folder can be found.
 
 
 <img width="650" height="136" alt="Flag 6 query" src="https://github.com/user-attachments/assets/19636a5b-8b6e-4677-a95b-80f20d08d717" />
