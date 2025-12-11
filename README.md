@@ -61,7 +61,7 @@
 <h2><strong>🚩 Flag 5: DEFENCE EVASION - File Extension Exclusions</strong></h2>
 
 - **Answer:** `3`
-- **Analysis:** The file extensions that were excluded from windows defender scanning were
+- **Analysis:** The file extensions that were excluded from windows defender by including them in `Exclusions\Extensions` registry so the attacker can perform malicious actions without being detected
 
 
 <img width="633" height="123" alt="Flag 5 query" src="https://github.com/user-attachments/assets/0f87e8de-3ded-4415-bc7f-fcac57d40097" />
