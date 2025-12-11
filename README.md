@@ -101,7 +101,7 @@
 <h2><strong>🚩 Flag 9: PERSISTENCE - Scheduled Task Target</strong></h2>
 
 - **Answer:** `C:\ProgramData\WindowsCache\svchost.exe`
-- **Analysis:**
+- **Analysis:** The `Windows Update Check` scheduled task is configured in the location `C:\ProgramData\WindowsCache\svchost.exe` for the attacker to maintain persistence on the system.
 
 
 <img width="921" height="146" alt="Flag 9 Query" src="https://github.com/user-attachments/assets/ac787128-97fe-4ac2-9638-dd34fac47708" />
@@ -111,7 +111,7 @@
 <h2><strong>🚩 Flag 10: COMMAND & CONTROL - C2 Server Address</strong></h2>
 
 - **Answer:** `78.141.196.6`
-- **Analysis:**
+- **Analysis:** The attacker used the `certutil.exe` tool to download malicious files from the command and control server. By including the built-in tool in the KQL query, the IP address for the C2 server can be identified in the commandline being executed by the attacker.
 
 
 <img width="930" height="128" alt="Flag 10 Query" src="https://github.com/user-attachments/assets/b3f1aae1-4b18-42dc-8cfd-cb189cd0eb0e" />
