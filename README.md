@@ -192,7 +192,7 @@
 <h2><strong>🚩 Flag 18: EXECUTION - Malicious Script</strong></h2>
 
 - **Answer:** `wupdate.ps1`
-- **Analysis:**
+- **Analysis:** The attacker downloaded a malicios script from the C2 server the IP address of `78.141.196.6`
 
 
 <img width="723" height="136" alt="Flag 18 query" src="https://github.com/user-attachments/assets/09c04cdb-1af1-4df6-887a-9fcd14ed6621" />
@@ -202,7 +202,7 @@
 <h2><strong>🚩 Flag 19: LATERAL MOVEMENT - Secondary Target</strong></h2>
 
 - **Answer:** `10.1.0.188`
-- **Analysis:**
+- **Analysis:** The targeted device with the IP address `10.1.0.188` was accessed remotely via RDP.
 
 
 <img width="953" height="134" alt="Flag 19 Query" src="https://github.com/user-attachments/assets/5c468bb0-b0fa-4696-8ce0-f8800a4e4830" />
@@ -212,7 +212,7 @@
 <h2><strong>🚩 Flag 20: LATERAL MOVEMENT - Remote Access Tool</strong></h2>
 
 - **Answer:** `mstsc.exe`
-- **Analysis:**
+- **Analysis:** The command tool was used to connect to '10.1.0.188' via RDP
 
 
 <img width="852" height="175" alt="Query flag 20" src="https://github.com/user-attachments/assets/e4475f0b-97e5-4963-9cad-c5b533cdc023" />
