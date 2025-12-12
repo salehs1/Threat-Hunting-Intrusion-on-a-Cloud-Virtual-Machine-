@@ -216,7 +216,17 @@
 
 
 <img width="852" height="175" alt="Query flag 20" src="https://github.com/user-attachments/assets/e4475f0b-97e5-4963-9cad-c5b533cdc023" />
-<img width="1035" height="246" alt="Flag 20 Result" src="https://github.com/user-attachments/assets/3db8be81-6fcb-434d-8023-90946a30e958" />
+<img width="1035" height="246" alt="Flag 20 Result" src="https://github.com/user-attachments/assets/3db8be81-6fcb-434d-8023-90946a30e958" />## **KEY FINDINGS**
+
+
+# 🔎 KEY FINDINGS:**
+
+- Malicious IPs: `78.141.196.6`,`88.97.178.12`
+- Malicious Files: `wupdate.ps1`, `export-data.zip`
+- Compromised Accounts: `kenji.sato`
+- C2 Infrastructure: `78.141.196.6`
+
+
 
 
 
