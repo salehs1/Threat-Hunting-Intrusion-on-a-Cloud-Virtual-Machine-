@@ -216,7 +216,7 @@
 
 
 <img width="852" height="175" alt="Query flag 20" src="https://github.com/user-attachments/assets/e4475f0b-97e5-4963-9cad-c5b533cdc023" />
-<img width="1035" height="246" alt="Flag 20 Result" src="https://github.com/user-attachments/assets/3db8be81-6fcb-434d-8023-90946a30e958" />## **KEY FINDINGS**
+<img width="1035" height="246" alt="Flag 20 Result" src="https://github.com/user-attachments/assets/3db8be81-6fcb-434d-8023-90946a30e958" />
 
 
 # 🔎 KEY FINDINGS:
