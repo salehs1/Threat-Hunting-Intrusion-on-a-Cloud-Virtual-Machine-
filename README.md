@@ -152,7 +152,7 @@
 <h2><strong>🚩 Flag 14: COLLECTION - Data Staging Archive</strong></h2>
 
 - **Answer:** `export-data.zip`
-- **Analysis:**
+- **Analysis:** The attacker compressed the stolen data and exfiltrated it using the `curl.exe` executable
 
 
 <img width="930" height="156" alt="Flag 14 Query" src="https://github.com/user-attachments/assets/bd7190f8-7bf3-48e2-98c8-65efb58b6616" />
@@ -162,7 +162,7 @@
 <h2><strong>🚩 Flag 15: EXFILTRATION - Exfiltration Channel</strong></h2>
 
 - **Answer:** `discord`
-- **Analysis:**
+- **Analysis:** The attacker exfiltrated the `export-data.zip` to `discord`
 
 
 <img width="974" height="156" alt="Flag 15 Query" src="https://github.com/user-attachments/assets/3a59422f-4434-4497-8946-64a0d7512aa0" />
@@ -172,7 +172,7 @@
 <h2><strong>🚩 Flag 16: ANTI-FORENSICS - Log Tampering</strong></h2>
 
 - **Answer:** `Security`
-- **Analysis:**
+- **Analysis:** The attacker first cleared the security logs using `wevutil.exe` tools to get rid of traces that can be used for investigation
 
 
 <img width="933" height="156" alt="Flag 16 query" src="https://github.com/user-attachments/assets/1e77b2fd-e527-4a8a-9ebf-e4b43dd29c94" />
@@ -182,7 +182,7 @@
 <h2><strong>🚩 Flag 17: IMPACT - Persistence Account</strong></h2>
 
 - **Answer:** `support`
-- **Analysis:**
+- **Analysis:** The administrator account was created using the executable `net.exe` to provide a backdoor for attacker if needed to perform malicious activities
 
 
 <img width="929" height="158" alt="Flag 17 Query" src="https://github.com/user-attachments/assets/99d9c0b0-bbd3-4709-80a2-c5de08d751ad" />
