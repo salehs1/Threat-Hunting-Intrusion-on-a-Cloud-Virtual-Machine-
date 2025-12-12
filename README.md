@@ -219,7 +219,7 @@
 <img width="1035" height="246" alt="Flag 20 Result" src="https://github.com/user-attachments/assets/3db8be81-6fcb-434d-8023-90946a30e958" />## **KEY FINDINGS**
 
 
-# 🔎 KEY FINDINGS:**
+# 🔎 KEY FINDINGS:
 
 - Malicious IPs: `78.141.196.6`,`88.97.178.12`
 - Malicious Files: `wupdate.ps1`, `export-data.zip`
