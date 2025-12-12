@@ -121,7 +121,7 @@
 <h2><strong>🚩 Flag 11: COMMAND & CONTROL - C2 Communication Port</strong></h2>
 
 - **Answer:** `443`
-- **Analysis:**
+- **Analysis:** The protocol shows that the attacker used `HTTPS` protocol to download files from the command and control server
 
 
 <img width="881" height="134" alt="Flag  11 Query" src="https://github.com/user-attachments/assets/02c0dd5b-c676-4ab3-9167-59482fe4f4e1" />
@@ -131,7 +131,7 @@
 <h2><strong>🚩 Flag 12: CREDENTIAL ACCESS - Credential Theft Tool</strong></h2>
 
 - **Answer:** `mm.exe`
-- **Analysis:**
+- **Analysis:** The hacker was able to use the credential dumping tool to access and steal credentials from the `LSASS` process memory before exfiltration.
 
 
 
@@ -142,7 +142,7 @@
 <h2><strong>🚩 Flag 13: CREDENTIAL ACCESS - Memory Extraction Module</strong></h2>
 
 - **Answer:** `sekurlsa::logonpasswords`
-- **Analysis:**
+- **Analysis:** The module used to extract passwords was used with the `mm.exe` credential dumping tool to extract credentials
 
 
 <img width="898" height="148" alt="Flag 13 query" src="https://github.com/user-attachments/assets/d44f7fe4-deaa-4395-b427-6f1e65a00ad4" />
