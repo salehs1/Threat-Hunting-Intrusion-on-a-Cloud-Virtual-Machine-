@@ -9,7 +9,7 @@
 
 # 💻 Scenario
 
-> Financially motivated threat actor targeting import/export companies. Known for multi-week operations with eventual ransomware deployment following data theft. Moderate sophistication with preference for low-footprint techniques.
+> This incident represents a full-chain intrusion, starting from stolen credentials and progressing through reconnaissance, defense evasion, persistence, credential theft, data exfiltration, log tampering, and lateral movement. The attacker demonstrated strong operational security by abusing legitimate Windows tools, trusted services, and encrypted traffic to remain stealthy throughout the attack lifecycle.
 
 # 🧭 Executive Summary
 
