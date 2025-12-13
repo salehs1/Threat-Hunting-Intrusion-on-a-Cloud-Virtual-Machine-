@@ -13,7 +13,7 @@
 
 # 🧭 Executive Summary
 
-> A threat actor gained access to the workstation azuki-sl using stolen credentials from the user kenji.sato and conducted reconnaissance to map the internal network. They evaded detection by modifying Microsoft Defender exclusions, staging malware in hidden directories, and downloading additional payloads via certutil.exe. The attacker established persistence through a rogue scheduled task and the creation of an unauthorized administrator account. They harvested credentials, moved laterally to another system via RDP, and exfiltrated staged data to an external Discord channel while communicating with a remote C2 server. Before exiting, the attacker cleared Security event logs to hinder investigation, indicating a full attack lifecycle and a sophisticated, stealth-focused intrusion.
+> A threat actor gained access to the workstation azuki-sl using stolen credentials for the user `kenji.sato` and conducted reconnaissance to map the internal network. They evaded detection by modifying Microsoft Defender exclusions, staging malware in hidden directories, and downloading additional payloads via certutil.exe. The attacker established persistence through a rogue scheduled task and the creation of an unauthorized administrator account. They harvested credentials, moved laterally to another system via RDP, and exfiltrated staged data to an external Discord channel while communicating with a remote C2 server. Before exiting, the attacker cleared Security event logs to hinder investigation, indicating a full attack lifecycle and a sophisticated, stealth-focused intrusion.
 
 ---
 
