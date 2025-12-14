@@ -227,7 +227,12 @@
 - C2 Infrastructure: `78.141.196.6`
 
 
+# 🔧 Recommendations:
 
+- Enforce Multi-Factor Authentication (MFA) for all remote access and privileged accounts.
+- Review VPN/RDP exposure and restrict access to approved IP ranges only.
+- Monitor and alert on Defender exclusion registry changes.
+- Enforce least privilege access across endpoints.
 
 
 
